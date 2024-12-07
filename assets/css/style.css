@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.cuadrados{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+
+#cuadrado1{
+    background-color: blue;
+}
+#cuadrado2{
+    background-color: red;
+}
+#cuadrado3{
+    background-color: green;
+}
+#cuadrado4{
+    background-color: yellow;
+}
+#cuadrado5{
+    border: solid 1px black;
+}
